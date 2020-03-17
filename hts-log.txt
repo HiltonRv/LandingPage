@@ -1,0 +1,65 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 01 Nov 2019 22:39:52 at http://themebubble.com/demo/webify/app-landing/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://themebubble.com/demo/webify/app-landing/ -O1 "E:\proyecto web\landingPage\ensenas" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:41:43	Warning: 	Retry after error -4 (No data (connection closed)) at link themebubble.com/demo/webify/app-landing/wp-content/cache/busting/12/demo/webify/app-landing/wp-includes/js/jquery/jquery-1.12.4-wp.js (from themebubble.com/demo/webify/app-landing/)
+22:41:48	Warning: 	Retry after error -4 (No data (connection closed)) at link themebubble.com/demo/webify/app-landing/blog/ (from themebubble.com/demo/webify/app-landing/)
+22:41:49	Warning: 	Retry after error -4 (No data (connection closed)) at link themebubble.com/demo/webify/app-landing/wp-content/uploads/sites/12/2019/07/sss.png (from themebubble.com/demo/webify/app-landing/)
+22:41:49	Warning: 	Retry after error -4 (No data (connection closed)) at link themebubble.com/demo/webify/app-landing/wp-content/cache/min/12/b9a60b8217186e4378ff49f3b5c50a4e.js (from themebubble.com/demo/webify/app-landing/)
+22:41:52	Warning: 	Retry after error -4 (Connect Error) at link themebubble.com/demo/webify/app-landing/wp-content/themes/webify/assets/fonts/iconsmind.ttf (from themebubble.com/demo/webify/app-landing/wp-content/cache/min/12/825aa2124199959ab58cbbd67c138004.css)
+22:41:52	Warning: 	File not parsed, looks like binary: themebubble.com/demo/webify/app-landing/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0
+22:41:52	Warning: 	Retry after error -4 (No data (connection closed)) at link themebubble.com/demo/webify/app-landing/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.ttf?v=4.7.0 (from themebubble.com/demo/webify/app-landing/wp-content/cache/min/12/825aa2124199959ab58cbbd67c138004.css)
+22:42:12	Warning: 	Retry after error -4 (No data (connection closed)) at link themebubble.com/demo/webify/app-landing/wp-content/themes/webify/assets/fonts/circular-regular.ttf (from themebubble.com/demo/webify/app-landing/wp-content/cache/min/12/825aa2124199959ab58cbbd67c138004.css)
+22:42:12	Warning: 	File not parsed, looks like binary: themebubble.com/demo/webify/app-landing/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.4.0
+22:42:12	Warning: 	Retry after error -4 (No data (connection closed)) at link themebubble.com/demo/webify/app-landing/wp-content/uploads/sites/12/2019/07/photo-1511988617509-a57c8a288659.jpg (from themebubble.com/demo/webify/app-landing/wp-content/cache/min/12/825aa2124199959ab58cbbd67c138004.css)
+22:43:56	Warning: 	Retry after error -4 (No data (connection closed)) at link themebubble.com/demo/webify/app-landing/wp-content/uploads/sites/12/2019/05/s9cc2skysjm.jpg (from themebubble.com/demo/webify/app-landing/blog/)
+22:44:02	Warning: 	Moved Permanently for themebubble.com/demo/webify/app-landing/?p=217
+22:44:02	Warning: 	File has moved from themebubble.com/demo/webify/app-landing/?p=217 to http://themebubble.com/demo/webify/app-landing/blog/
+22:44:37	Warning: 	Retry after error -4 (No data (connection closed)) at link themebubble.com/demo/webify/app-landing/?p=215 (from themebubble.com/demo/webify/app-landing/2019/04/15/the-thin-blur-line-between-corporate-lifestyle-other-things/)
+22:44:41	Warning: 	Retry after error -4 (No data (connection closed)) at link themebubble.com/demo/webify/app-landing/tag/workspace/ (from themebubble.com/demo/webify/app-landing/2019/04/15/the-thin-blur-line-between-corporate-lifestyle-other-things/)
+22:44:43	Warning: 	Retry after error -4 (No data (connection closed)) at link themebubble.com/demo/webify/app-landing/2019/04/15/the-future-of-south-lies-in-secret/ (from themebubble.com/demo/webify/app-landing/category/lifestyle/)
+22:44:43	Warning: 	Retry after error -4 (No data (connection closed)) at link themebubble.com/demo/webify/app-landing/author/developmentthemebubble/page/2/ (from themebubble.com/demo/webify/app-landing/author/developmentthemebubble/)
+22:44:44	Warning: 	Moved Permanently for themebubble.com/demo/webify/app-landing/?p=214
+22:44:44	Warning: 	File has moved from themebubble.com/demo/webify/app-landing/?p=214 to http://themebubble.com/demo/webify/app-landing/2019/04/15/halfway-though-a-decade-more/
+22:44:44	Warning: 	Moved Permanently for themebubble.com/demo/webify/app-landing/?p=213
+22:44:44	Warning: 	File has moved from themebubble.com/demo/webify/app-landing/?p=213 to http://themebubble.com/demo/webify/app-landing/2019/04/15/how-to-live-a-balanced-life-like-everyone/
+22:44:44	Warning: 	Moved Permanently for themebubble.com/demo/webify/app-landing/?p=212
+22:44:44	Warning: 	File has moved from themebubble.com/demo/webify/app-landing/?p=212 to http://themebubble.com/demo/webify/app-landing/2019/04/15/there-will-be-a-time-when-it-all-goes-against-you/
+22:44:44	Warning: 	Moved Permanently for themebubble.com/demo/webify/app-landing/?p=211
+22:44:44	Warning: 	File has moved from themebubble.com/demo/webify/app-landing/?p=211 to http://themebubble.com/demo/webify/app-landing/2019/04/15/smashing-dreams-more-of-it/
+22:44:44	Warning: 	Moved Permanently for themebubble.com/demo/webify/app-landing/?p=210
+22:44:44	Warning: 	File has moved from themebubble.com/demo/webify/app-landing/?p=210 to http://themebubble.com/demo/webify/app-landing/2019/04/15/the-life-hack-you-might-think-you-know/
+22:44:44	Warning: 	Moved Permanently for themebubble.com/demo/webify/app-landing/?p=208
+22:44:44	Warning: 	File has moved from themebubble.com/demo/webify/app-landing/?p=208 to http://themebubble.com/demo/webify/app-landing/2019/04/15/sublime-art-of-not-worrying-at-all/
+22:44:44	Warning: 	Moved Permanently for themebubble.com/demo/webify/app-landing/?p=206
+22:44:44	Warning: 	File has moved from themebubble.com/demo/webify/app-landing/?p=206 to http://themebubble.com/demo/webify/app-landing/2019/04/15/a-brief-history-of-everything-in-between/
+22:44:44	Warning: 	Moved Permanently for themebubble.com/demo/webify/app-landing/?p=204
+22:44:44	Warning: 	File has moved from themebubble.com/demo/webify/app-landing/?p=204 to http://themebubble.com/demo/webify/app-landing/2019/04/15/what-to-expect-in-a-changed-lifestyle/
+22:44:48	Warning: 	Moved Permanently for themebubble.com/demo/webify/app-landing/blog/page/1/
+22:44:48	Warning: 	File has moved from themebubble.com/demo/webify/app-landing/blog/page/1/ to http://themebubble.com/demo/webify/app-landing/blog/
+22:44:48	Warning: 	Moved Permanently for themebubble.com/demo/webify/app-landing/?p=215
+22:44:48	Warning: 	File has moved from themebubble.com/demo/webify/app-landing/?p=215 to http://themebubble.com/demo/webify/app-landing/2019/04/15/the-thin-blur-line-between-corporate-lifestyle-other-things/
+22:44:48	Warning: 	Moved Permanently for themebubble.com/demo/webify/app-landing/category/lifestyle/page/1/
+22:44:48	Warning: 	File has moved from themebubble.com/demo/webify/app-landing/category/lifestyle/page/1/ to http://themebubble.com/demo/webify/app-landing/category/lifestyle/
+22:44:50	Warning: 	Moved Permanently for themebubble.com/demo/webify/app-landing/?p=117
+22:44:50	Warning: 	File has moved from themebubble.com/demo/webify/app-landing/?p=117 to http://themebubble.com/demo/webify/app-landing/2019/04/13/hello/
+22:44:50	Warning: 	Retry after error -4 (No data (connection closed)) at link themebubble.com/demo/webify/app-landing/tag/food/page/1/ (from themebubble.com/demo/webify/app-landing/tag/food/page/2/)
+22:44:50	Warning: 	Moved Permanently for themebubble.com/demo/webify/app-landing/tag/fun/page/1/
+22:44:50	Warning: 	File has moved from themebubble.com/demo/webify/app-landing/tag/fun/page/1/ to http://themebubble.com/demo/webify/app-landing/tag/fun/
+22:44:50	Warning: 	Moved Permanently for themebubble.com/demo/webify/app-landing/tag/office/page/1/
+22:44:50	Warning: 	File has moved from themebubble.com/demo/webify/app-landing/tag/office/page/1/ to http://themebubble.com/demo/webify/app-landing/tag/office/
+22:44:50	Warning: 	Moved Permanently for themebubble.com/demo/webify/app-landing/?p=202
+22:44:50	Warning: 	File has moved from themebubble.com/demo/webify/app-landing/?p=202 to http://themebubble.com/demo/webify/app-landing/2019/04/15/the-future-of-south-lies-in-secret/
+22:44:51	Warning: 	Moved Permanently for themebubble.com/demo/webify/app-landing/author/developmentthemebubble/page/1/
+22:44:51	Warning: 	File has moved from themebubble.com/demo/webify/app-landing/author/developmentthemebubble/page/1/ to http://themebubble.com/demo/webify/app-landing/author/developmentthemebubble/
+22:44:51	Warning: 	Moved Permanently for themebubble.com/demo/webify/app-landing/tag/food/page/1/
+22:44:51	Warning: 	File has moved from themebubble.com/demo/webify/app-landing/tag/food/page/1/ to http://themebubble.com/demo/webify/app-landing/tag/food/
+22:44:51	Warning: 	Moved Permanently for themebubble.com/demo/webify/app-landing/tag/workspace/page/1/
+22:44:51	Warning: 	File has moved from themebubble.com/demo/webify/app-landing/tag/workspace/page/1/ to http://themebubble.com/demo/webify/app-landing/tag/workspace/
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 59 seconds : 162 links scanned, 128 files written (13726279 bytes overall) [6990737 bytes received at 23380 bytes/sec], 10337832 bytes transferred using HTTP compression in 99 files, ratio 34%, 3.5 requests per connection
+(No errors, 54 warnings, 0 messages)
